@@ -1,0 +1,16 @@
+div {
+  height: 1000px;
+  margin: 0;
+  padding: 0;
+  color: (255,255,255,1);
+  width: 100%;
+}
+#mainContainer {
+  display: flex;
+  justify-content: space-between;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background: blue;
+}
